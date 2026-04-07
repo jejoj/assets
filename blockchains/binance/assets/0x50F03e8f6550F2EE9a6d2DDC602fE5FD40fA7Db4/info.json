@@ -1,0 +1,26 @@
+{
+  "name": "Tether USD",
+  "type": "BEP20",
+  "symbol": "USDT.z",
+  "decimals": 18,
+  "description": "Custom ERC20 token deployed on BNB Smart Chain with vanity address ending in 7db4",
+  "website": "",
+  "research": "",
+  "source_code": "",
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "explorer": "https://bscscan.com/token/0x50F03e8f6550F2EE9a6d2DDC602fE5FD40fA7Db4"
+}
